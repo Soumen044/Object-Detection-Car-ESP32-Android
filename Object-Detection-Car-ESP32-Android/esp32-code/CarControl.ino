@@ -15,7 +15,7 @@
 
 // WiFi Configuration
 const char* ssid = "Savana Node 01";
-const char* password = "9038790118";
+const char* password = "iloveindia";
 WiFiServer server(80);
 
 void setup() {
