@@ -47,4 +47,39 @@ See [Bill of Materials](hardware/bill_of_materials.md) for details.
 
 ### Hardware Setup
 1. Assemble the circuit as shown in [circuit_diagram.png](hardware/circuit_diagram.png).
-2. Connect the)
+2. Connect the battery and power on the car.
+3. Verify connections using the [Bill of Materials](hardware/bill_of_materials.md).
+
+## Usage
+1. Power on the car; the ESP32 creates a Wi-Fi Access Point (SSID: `Savana Node 01`, Password: `9038790118`).
+2. Connect your Android device to the ESP32’s Wi-Fi network.
+3. Open the Android app and use the buttons to control the car (forward, backward, left, right, stop).
+4. The car automatically reverses and stops if an obstacle is detected within 60 cm.
+
+## Documentation
+- [Introduction](docs/introduction.md): Project overview and objectives.
+- [Working Methodology](docs/working_methodology.md): How the system operates.
+- [Key Features](docs/key_features.md): Core functionalities.
+- [Applications](docs/applications.md): Potential use cases.
+- [Conclusion](docs/conclusion.md): Project outcomes and learnings.
+- [Future Scope](docs/future_scope.md): Potential enhancements.
+- [References](docs/references.md): Resources used.
+
+## Project Presentation
+View the full project presentation: [Project-ppt.pdf](presentation/Project-ppt.pdf)
+
+## Contributing
+Contributions are welcome! Please open an issue or submit a pull request for bug fixes or enhancements. Follow the guidelines in [CONTRIBUTING.md](CONTRIBUTING.md).
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgements
+- **Team**: Soumen Mishra, Nabanita Maity, Triyasa Dey, Pousali Pal, Anirudha Roy.
+- **Guides**: Shri Partha Sarathi Banerjee, Shri Achintya Gopal Mondal.
+- **Institution**: Dasnagar Government Polytechnic, Howrah, West Bengal.
+- **Head of Department**: Shri Aniruddha Bhaduri.
+- **Principal**: Dr. Manas Kumar Saha.
+
+## Contact
+For inquiries, reach out via [LinkedIn](https://www.linkedin.com/in/04-soumen-mishra) or email at soumenmishra187@gmail.com .
