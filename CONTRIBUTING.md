@@ -15,7 +15,7 @@ Thank you for your interest in contributing to the Object Detection Car project!
 - Update documentation if necessary.
 
 ## Issues
-- Report bugs or suggest features via the [Issues](https://github.com/yourusername/Object-Detection-Car-ESP32-Android/issues) tab.
+- Report bugs or suggest features via the [Issues](https://github.com/Soumen044/Object-Detection-Car-ESP32-Android/issues) tab.
 - Provide detailed steps to reproduce bugs.
 
-Contact the team via [LinkedIn](https://www.linkedin.com/in/yourprofile) for questions.
+Contact the team via [LinkedIn](https://www.linkedin.com/in/04-soumen-mishra) for questions.
