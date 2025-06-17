@@ -9,4 +9,4 @@ The system operates as follows:
 
 The L293D motor driver controls two BO DC motors for movement, while LEDs indicate direction (e.g., both LEDs on for backward movement).
 
-![Block Diagram](../hardware/block_diagram.png)
+![Block Diagram](../hardware/BlockDiagram.jpg)
