@@ -16,7 +16,7 @@ The Object Detection Car Controlled by Android Application successfully achieved
   - LED indicators (pins 14, 27) enhance user feedback.
 
 - **Cost-Effectiveness**:
-  - Built with affordable components (~INR 1,960), making it accessible for educational and hobbyist projects.
+  - Built with affordable components (~INR 2,700), making it accessible for educational and hobbyist projects.
 
 - **System Integration**:
   - Combines ESP32, L293D motor driver, HC-SR04 sensor, and Firebase for a cohesive system.
