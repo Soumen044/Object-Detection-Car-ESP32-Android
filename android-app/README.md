@@ -18,7 +18,7 @@ This folder contains the Android Studio project for the control app, which sends
 4. Sync the project with Gradle to download dependencies (OkHttp, Firebase).
 5. Connect an Android device via USB or use an emulator.
 6. Build and run the app, or install `app-release.apk` directly.
-7. Connect to the ESP32’s Wi-Fi Access Point (SSID: `Savana Node 01`, Password: `9038790118`) before launching the app.
+7. Connect to the ESP32’s Wi-Fi Access Point (SSID: `Savana Node 01`, Password: `iloveindia`) before launching the app.
 
 ## Notes
 - **HTTP Requests**: The app sends requests to `http://192.168.4.1/` (ESP32’s default IP).
