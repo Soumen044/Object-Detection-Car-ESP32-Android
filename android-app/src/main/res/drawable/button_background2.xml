@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Set the background color of the button -->
+
+    <solid android:color="#FFFFFF" />
+
+    <!-- Purple color -->
+
+    <!-- Set the corner radius for rounded corners -->
+
+    <corners android:radius="55dp" />
+
+    <!-- Adjust the stroke width for a proper border -->
+
+    <stroke
+        android:width="2dp"
+        android:color="@color/black">
+
+        <!-- Reduce the width to make the stroke visible without covering the solid color -->
+
+    </stroke>
+
+    <!-- Border color -->
+
+</shape>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color> <!-- Primary color -->
+    <color name="colorSecondary">#03DAC5</color> <!-- Secondary color -->
+
+    <color name="light_orange">#FFA07A</color> <!-- Light Orange -->
+    <color name="light_green">#C8C3F689</color> <!-- Light Green -->
+    <color name="light_purple">#D8BFD8</color> <!-- Light Purple -->
+    <color name="light_yellow">#FFF58B</color> <!-- Light Yellow -->
+
+    <color name="white">#FFFFFF</color> <!-- White -->
+    <color name="black">#000000</color> <!-- Black -->
+    <color name="gray">#5B5B5B</color> <!-- Black -->
+
+    <color name="dark_orange">#FF4500</color> <!-- Dark Orange -->
+    <color name="dark_purple">#800080</color> <!-- Dark Purple -->
+
+    <color name="orange">#FF6347</color> <!-- Orange -->
+    <color name="purple">#9380DB</color> <!-- Purple -->
+    <color name="yellow">#FFC107</color> <!-- Yellow -->
+</resources>

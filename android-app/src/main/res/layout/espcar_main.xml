@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/espcar"
+    android:background="@color/light_purple"
+    >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:layout_marginHorizontal="10dp"
+        android:layout_marginVertical="10dp"
+        >
+
+        <Button
+            android:id="@+id/exit01"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:background="@drawable/button_background1"
+            android:text="Exit"
+            android:textColor="#3E2723"
+            tools:ignore="HardcodedText" />
+
+        <TextView
+            android:id="@+id/txtRES01"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:background="@drawable/layout_background1"
+            android:gravity="center"
+            android:text=""
+            android:textSize="20sp" />
+
+
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout001"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginHorizontal="3dp"
+        android:layout_marginTop="310dp"
+        android:layout_marginBottom="48dp"
+        android:background="@drawable/layout_background3"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:id="@+id/relativelayout001"
+            android:layout_width="match_parent"
+            android:layout_height="120dp">
+
+            <ImageButton
+                android:id="@+id/forward"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/layout_background3"
+                android:padding="5dp"
+                android:src="@drawable/forward02"
+                tools:ignore="ContentDescription,SpeakableTextPresentCheck" />
+
+        </RelativeLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:baselineAligned="false"
+            android:orientation="horizontal"
+            android:layout_weight="1">
+
+            <LinearLayout
+                android:layout_width="125dp"
+                android:layout_height="match_parent">
+
+                <ImageButton
+                    android:id="@+id/left"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@color/white"
+                    android:padding="5dp"
+                    android:src="@drawable/left02"
+                    tools:ignore="ContentDescription,SpeakableTextPresentCheck" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                tools:ignore="NestedWeights">
+
+                <ImageButton
+                    android:id="@+id/stop"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@drawable/layout_background3"
+                    android:src="@drawable/stop02"
+                    tools:ignore="ContentDescription,MissingPrefix,SpeakableTextPresentCheck" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="125dp"
+                android:layout_height="match_parent">
+
+                <ImageButton
+                    android:id="@+id/right"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@color/white"
+                    android:padding="5dp"
+                    android:src="@drawable/right02"
+                    tools:ignore="ContentDescription,SpeakableTextPresentCheck" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="120dp"
+
+            >
+
+            <ImageButton
+                android:id="@+id/backward"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/layout_background3"
+                android:contentDescription="TODO"
+                android:padding="5dp"
+                android:src="@drawable/backward02"
+                tools:ignore="ContentDescription,HardcodedText,SpeakableTextPresentCheck" />
+
+
+        </RelativeLayout>
+
+    </LinearLayout>
+
+            <TextView
+                android:id="@+id/txtdistance"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true"
+                android:layout_marginBottom="15dp"
+                android:background="@drawable/layout_background3"
+                android:gravity="center"
+                android:paddingVertical="2dp"
+                android:text=""
+                android:textSize="18sp" />
+
+</RelativeLayout>
