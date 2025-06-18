@@ -30,4 +30,4 @@ This folder contains the Android Studio project for the control app, which sends
   - Verify Firebase configuration.
   - Ensure internet access for initial login.
 
-For detailed Firebase setup, refer to [firebase_setup.md](../docs/firebase_setup.markdown).
+For detailed Firebase setup, refer to [Firebase Setup](../docs/firebase_setup.markdown).
