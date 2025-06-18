@@ -74,10 +74,12 @@ See [Bill of Materials](hardware/bill_of_materials.md) for more details and purc
 4. See [ESP32 - README](esp32-code/README.md) for detailed setup.
 
 ### Hardware Setup
-1. Assemble the circuit as shown in Circuit Diagram ![Circuit Diagram](hardware/diagrams/Circuit_Diagram.jpg).
-2. Refer to Mechanical Diagram ![Mechanical Diagram](hardware/diagrams/Mechanical_Diagram.jpg) for car assembly.
-3. Connect the battery and power on the car.
-4. Verify connections using [Bill of Materials](hardware/bill_of_materials.md).
+1. Assemble the circuit as shown in **Circuit Diagram**.
+   ![Circuit Diagram](hardware/diagrams/Circuit_Diagram.jpg)
+3. Refer to **Mechanical Diagram**.
+   ![Mechanical Diagram](hardware/diagrams/Mechanical_Diagram.jpg) for car assembly
+4. Connect the battery and power on the car.
+5. Verify connections using [Bill of Materials](hardware/bill_of_materials.md).
 
 ### Firebase Setup
 1. Create a Firebase project at [console.firebase.google.com](https://console.firebase.google.com/).
