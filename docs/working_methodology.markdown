@@ -71,12 +71,12 @@ The Object Detection Car Controlled by Android Application operates through a se
 ![Circuit Diagram](../hardware/diagrams/Circuit_Diagram.jpg).
 ![Control System Model](../hardware/diagrams/Controll_System_Model.png).
 ![Data Flow Diagram](../hardware/diagrams/Data_Flow_Diagram.jpg).
-![Entity Relationship Diagram of Firebase Realtime Database](../hardware/diagrams/Entity_Relationship_Diagram_of_Firebase_Realtime_Database.png).
+![Entity Relationship Diagram of Firebase Realtime Database](../hardware/diagrams/Entity_Relationship_Diagram_of_the_Firebase_Realtime_Database.png).
 ![Flowchart Diagram](../hardware/diagrams/Flowchart_Diagram.jpg).
 ![Obstacle Avoidance Diagram](../hardware/diagrams/Obstacle_Avoidance_Diagram.jpg).
 ![State Machine Diagram](../hardware/diagrams/State_Machine_Diagram.jpg).
 ![Structure System Diagram](../hardware/diagrams/Structure_System_Diagram.jpg).
-![Mechanical Diagram](../hardware/diagrams/Mechanical_diagram.png).
+![Mechanical Diagram](../hardware/diagrams/Mechanical_Diagram.png).
 
 **Workflow Summary**:
 - The ESP32 initializes the Wi-Fi AP and sensor/actuator pins.
