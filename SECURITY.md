@@ -44,7 +44,7 @@ If you discover a security vulnerability in our project (e.g., in the ESP32 Ardu
 
 To ensure safe use of this project, we recommend:
 
-- **Wi-Fi Credentials**: Update the default SSID (`Savana Node 01`) and password (`9038790118`) in `esp32-code/CarControl.ino` before deployment. Avoid hardcoding sensitive data.
+- **Wi-Fi Credentials**: Update the default SSID (`Savana Node 01`) and password (`iloveindia`) in `esp32-code/CarControl.ino` before deployment. Avoid hardcoding sensitive data.
 - **Firebase Configuration**:
   - Securely store `google-services.json` outside the repository.
   - Restrict Firebase API keys and enable only necessary permissions.
