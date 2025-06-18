@@ -1,5 +1,7 @@
 # Bill of Materials
 
+The Object Detection Car requires the following hardware components, as specified in the project documentation and inferred from the Arduino code pin assignments.
+
 | Component                            | Quantity | Description                              | Approx. Cost (INR) |
 |--------------------------------------|----------|------------------------------------------|--------------------|
 | ESP32 Dev Module V1                  | 1        | Wi-Fi-enabled microcontroller            | 500                |
@@ -22,9 +24,20 @@
 
 **Total Approx. Cost**: INR 2,700
 
-Purchase links (optional):
-- [ESP32 Dev Module V1](https://www.amazon.in/ESP32-Development-Board-WiFi-Bluetooth/dp/B07QCP2451)
+## Purchase Links (Optional)
+- [ESP32 Dev Module](https://www.amazon.in/ESP32-Development-Board-WiFi-Bluetooth/dp/B07QCP2451)
 - [HC-SR04 Ultrasonic Sensor](https://www.amazon.in/Estella%C2%AE-Ultrasonic-Distance-Compatible-Arduino/dp/B0F18J3B7V/ref=sr_1_1_sspa?dib=eyJ2IjoiMSJ9.f_xQWQlyPreKASwGL8luEksDL_qAUBuyNTUfKjF_OfDhdPSMz1PyWDA2llFnwEPEE8evmxqkxD3NC6YXTpwxzfi4FMYF-KoWQRVq96JFKfU_FSU7PjLIpOaKaJUkxUWSJWK_Q9xuwE04P3X-F-CV62FsJVmzx0YT4lAN4U67lW7pxgHrZjrSkMBdxgp5oiInHx8Ad2neLHbOQwj1h4hB_GrpcboHzjvC5gqiAlc8mZfT0LT-Fq_M46DweSJJqOgW2AkHiCLg2i0GGrdH06c02gVHMKAE81RpfXnBzF0Uu-g.gYmmh91TNK4RTXTn2VIwyGj9UWzHwTxrHRRlcFGX3WY&dib_tag=se&keywords=ultrasonic+sensor&qid=1750219763&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1)
 - [L293D Motor Driver iC](https://www.amazon.in/EPICTAC%C2%AE-16-pin-Stepper-Driver-Controller/dp/B092SSZ82V/ref=sr_1_6?crid=2M3U13YCA793H&dib=eyJ2IjoiMSJ9.qgzqzzF_9r7pbzzH45aeXVE_w9EiHXb6PPleLKX8DkvzikwxIlSmH7Gcj7Ob5yrJywhU_1r9IEtZw0z-QoNsY7zeLGoHIgUI-VvALSAiwvehnyuPuPB-2Pbt-2jHo1I2MVlPTu_L6Y1hk1kluudvwnXmWV0RYHinTJ6XPDKtNNzi2q-yLMcjG5Hu6yaBpX_jP7651kshzyk6i3LyXbA9PY46YMDMWYKz2qjZji2zCgcRXO8rR4hfC1ajhYVK7HELnXHUcTmOtREKvNkZcZICdIQU06_E7RfbjM0GszeyCH4.REJfvzBXlJG5jV_acNqw71bbwvyW_cznEQJPjpCoa68&dib_tag=se&keywords=l293d+ic&qid=1750219874&sprefix=l293d%2Caps%2C665&sr=8-6)
 - [3.7V Li-ion Battery ~2000mah](https://www.amazon.in/ROBOMALLSTM-Rechargeable-Batteries-Lithium-Ion-Bluetooth/dp/B0F7Y3GWXV/ref=sr_1_4?crid=1IJUQV5MKYRNZ&dib=eyJ2IjoiMSJ9.CcmYD2fTMp37-WdSScEblc0Qlb9WqwHJSngwgAjGXy_fvxGghHi5Ls-selRgIlCP9FYo4dJ_grggzLzHX1brMcBkOE6hctWyxaSqBPGIkfXIsWka6d5DwMWVuor-lYr8eO8BARfj064ORyRXzWTBQt8oEIQtWpgjt6CvgXCoWRuJJx3ghvslIZqNh-_JENqlAtnWJTHAXLI37NYRV6cvbjJ62vkdWD2Ps2LWNs91JrE.OAXM5PY5EumAG-hfTQHCnQzRjgaMFNNlSiDOuI6KYaU&dib_tag=se&keywords=3.7v+li+ion+battery&qid=1750219995&sprefix=3.7v+li+ion+battery%2Caps%2C658&sr=8-4)
 - [LM2596 Buck Converter](https://www.amazon.in/SpiderJuice-LM2596-Converter-Regulator-Adjustable/dp/B0DSZSMSDW/ref=sr_1_5?crid=1K038CJY7USCD&dib=eyJ2IjoiMSJ9.-BCzzhrxo8xM0mvdvOvFk-1p_23NQSo88Knery7mbAsbJWzWdjnxb7pgnGRsu8Dc9WHH9WJ5G2oCZnGvGczWZorNldMt2FLEJHnHg93XkuegPA1w-J7lHo3UIcUpCx4qKnsH6IkQu14gUC6g5mNcb0iEefeY7stTRp818jafPAq8o2GOsjKQfV1tie-1czEDAaHUeN5CooGM2jLAL040IY_CzyOMfqogC90FrejKdM0.j5YFZowO0Iyt5gCkMvq6se6dsWPXc86NThTHyL4Vv3I&dib_tag=se&keywords=LM2596+Buck+Converter&qid=1750220090&sprefix=lm2596+buck+converter%2Caps%2C415&sr=8-5)
+- [BO DC Motors](https://www.amazon.in/Generic-Motor-Wheel-Robotics/dp/B07D3N7Z7L)
+
+## Notes
+- **ESP32**: Provides Wi-Fi capabilities and processes sensor/motor commands.
+- **HC-SR04**: Measures distance to obstacles, triggering avoidance actions.
+- **L293D**: Drives two BO DC motors for differential movement.
+- **LEDs**: Indicate direction (both on for backward, left for left turn, right for right).
+- **Battery**: Powers the entire system; ensure proper voltage regulation via LM2596.
+- **Chassis**: Refer to [mechanical_diagram.png](mechanical_diagram.png) for assembly details.
+
+For circuit connections, see [circuit_diagram.png](circuit_diagram.png).
