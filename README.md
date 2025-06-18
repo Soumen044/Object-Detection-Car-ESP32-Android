@@ -41,20 +41,28 @@ Watch the car navigate and avoid obstacles in our YouTube demo video, showcasing
 - **Firebase Integration**: Ensures secure, exclusive control for a single user.
 
 ## Hardware Requirements
-| Component              | Quantity | Description                              |
-|------------------------|----------|------------------------------------------|
-| ESP32 Dev Module       | 1        | Wi-Fi-enabled microcontroller            |
-| HC-SR04 Sensor         | 1        | Ultrasonic distance sensor (pins 5, 18)  |
-| L293D Motor Driver     | 1        | Controls BO DC motors                    |
-| BO DC Motors           | 2        | Drives wheels (pins 21, 19, 23, 22)      |
-| LEDs                   | 2        | Direction indicators (pins 14, 27)       |
-| 7.4V Li-ion Battery    | 1        | Power supply for the car                 |
-| LM2596 Voltage Regulator | 1      | Stable power supply                      |
-| Chassis and Wheels     | 1        | Car body and wheels                      |
-| Jumper Wires           | ~20      | Circuit connections                      |
-| Breadboard/PCB         | 1        | Circuit assembly                         |
 
-See [Bill of Materials](hardware/bill_of_materials.md) for details and purchase links.
+| Component                            | Quantity | Description                              | Approx. Cost (INR) |
+|--------------------------------------|----------|------------------------------------------|--------------------|
+| ESP32 Dev Module V1                  | 1        | Wi-Fi-enabled microcontroller            | 500                |
+| HC-SR04 Ultrasonic Sensor            | 1        | Ultrasonic distance sensor               | 250                |
+| L293D Motor Driver iC                | 2        | Controls BO DC motors                    | 200                |
+| 3.7V Li-ion Battery ~2000mah         | 4        | Power supply for the car                 | 350                |
+| LM2596 Buck Converter                | 1        | Stable power supply                      | 100                |
+| Breadboard 400-tie                   | 1        | Circuit assembly                         | 200                |
+| Li-ion 18650 Battary Holder          | 2        | Hold the battaries                       | 200                |
+| Jumper Wires                         | ~30      | Circuit connections                      | 100                |
+| Chassis                              | 1        | Car base                                 | 350                |
+| BO DC Motors                         | 4        | Drives the car’s wheels                  | 200                |
+| BO wheels                            | 4        | Turns the car in directions              | 100                |
+| Resistor 1k                          | 3        | Circuit assembly                         | 10                 |
+| 5v Switch                            | 1        | Power turn On/Off                        | 50                 |
+| LEDs                                 | 6        | Movement direction indicators            | 25                 |
+| TP4056 li-ion Charging Module        | 1        | Recharge the battarys                    | 50                 |
+| Glue Gun                             | 1        | Attach the Componentsto the Chassis      | NIL                |
+| Solder Iron                          | 1        | Wiring Connection                        | NIL                |
+
+See [Bill of Materials](hardware/bill_of_materials.md) for more details and purchase links.
 
 ## Software Requirements
 - **Arduino IDE**: For uploading the ESP32 code (requires ESP32 board manager).
