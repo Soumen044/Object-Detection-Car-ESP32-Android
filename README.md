@@ -22,8 +22,8 @@ Developed as a final-year project (Session: 2022–2025) by Soumen Mishra, Naban
 - [Contact](#contact)
 
 ## Demo
-[![Demo Video](https://img.youtube.com/vi/your_video_id/0.jpg)]([Your YouTube Link])
-![Demo GIF](media/demo_video.gif)
+[![Demo Video]((ObjectDetectionCar.demo.mp4))]([Your YouTube Link](https://youtube.com/shorts/29JZEBwUVIw?si=bS2NoO9rE357zt9-))
+![Demo GIF](media/ObjectDetectionCar.demo.gif).
 
 Watch the car navigate and avoid obstacles in our YouTube demo video, showcasing real-time control via the Android app and obstacle detection capabilities.
 
