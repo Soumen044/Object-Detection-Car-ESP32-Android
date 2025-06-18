@@ -20,7 +20,7 @@ The Object Detection Car Controlled by Android Application operates through a se
 3. **Command Processing**:
    - The ESP32 receives HTTP GET requests via its WiFiServer.
    - It parses the request to extract commands (e.g., `forward`, `left`).
-   - Corresponding motor control functions are executed (see [movement_controls.md](movement_controls.md)).
+   - Corresponding motor control functions are executed (see [Movement Controls](movement_controls.markdown)).
    - Commands are logged to Serial Monitor (115200 baud) for debugging.
 
 4. **Obstacle Detection**:
@@ -66,9 +66,17 @@ The Object Detection Car Controlled by Android Application operates through a se
    - LM2596 voltage regulator ensures stable 5V/3.3V supply for ESP32 and sensors.
 
 **System Architecture**:
-![Block Diagram](../hardware/block_diagram.png)
-![Circuit Diagram](../hardware/circuit_diagram.png)
-![Mechanical Diagram](../hardware/mechanical_diagram.png)
+![Base Structure](../hardware/diagrams/Base_Structure.png).
+![Block Diagram](../hardware/diagrams/Block_Diagram.jpg).
+![Circuit Diagram](../hardware/diagrams/Circuit_Diagram.jpg).
+![Control System Model](../hardware/diagrams/Control_System_Model.png).
+![Data Flow Diagram](../hardware/diagrams/Data_Flow_Diagram.jpg).
+![Entity Relationship Diagram of Firebase Realtime Database](../hardware/diagrams/Entity_Relationship_Diagram_of_Firebase_Realtime_Database.png).
+![Flowchart Diagram](../hardware/diagrams/Flowchart_Diagram.jpg).
+![Obstacle Avoidance Diagram](../hardware/diagrams/Obstacle_Avoidance_Diagram.jpg).
+![State Machine Diagram](../hardware/diagrams/State_Machine_Diagram.jpg).
+![Structure System Diagram](../hardware/diagrams/Structure_System_Diagram.jpg).
+![Mechanical Diagram](../hardware/diagrams/mechanical_diagram.png).
 
 **Workflow Summary**:
 - The ESP32 initializes the Wi-Fi AP and sensor/actuator pins.
@@ -77,4 +85,4 @@ The Object Detection Car Controlled by Android Application operates through a se
 - Obstacle detection overrides manual control for safety.
 - Responses are sent back to the app, and LEDs provide visual feedback.
 
-For sensor details, see [sensor_detection.md](sensor_detection.md). For motor control, see [movement_controls.md](movement_controls.md).
+For sensor details, see [Sensor Detection](sensor_detection.markdown). For motor control, see [Movement Controls](movement_controls.markdown).
