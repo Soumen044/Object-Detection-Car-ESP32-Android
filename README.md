@@ -24,7 +24,7 @@ Developed as a final-year project (Session: 2022–2025) by Soumen Mishra, Naban
 ## Demo
 [[Demo Video](media/ObjectDetectionCar.demo.mp4)]
 
-[[Your YouTube Link](https://youtube.com/shorts/29JZEBwUVIw?si=bS2NoO9rE357zt9-)]
+[[YouTube Link](https://youtube.com/shorts/29JZEBwUVIw?si=bS2NoO9rE357zt9-)]
 
 [[Demo GIF](media/ObjectDetectionCar.demo.gif)]
 
@@ -65,27 +65,27 @@ See [Bill of Materials](hardware/bill_of_materials.md) for details and purchase 
 ### Android App
 1. Download the repository from GitHub.
 2. Open the `android-app` folder in Android Studio.
-3. Place `google-services.json` in `android-app/app/` (see [Firebase Setup](docs/firebase_setup.md)).
+3. Place `google-services.json` in `android-app/app/` (see [Firebase Setup](docs/firebase_setup.markdown)).
 4. Sync the project with Gradle to download dependencies (OkHttp, Firebase).
 5. Build and run on an Android device, or install `android-app/app-release.apk`.
-6. See [android-app/README.md](android-app/README.md) for detailed setup.
+6. See [Android-App README(android-app/README.md) for detailed setup.
 
 ### ESP32 Code
 1. Open `esp32-code/CarControl.ino` in Arduino IDE.
 2. Install the ESP32 board manager via Boards Manager.
 3. Connect the ESP32, select `ESP32 Dev Module`, and upload the sketch.
-4. See [esp32-code/README.md](esp32-code/README.md) for detailed setup.
+4. See [ESP32 - README](esp32-code/README.md) for detailed setup.
 
 ### Hardware Setup
-1. Assemble the circuit as shown in [circuit_diagram.png](hardware/circuit_diagram.png).
-2. Refer to [mechanical_diagram.png](hardware/mechanical_diagram.png) for car assembly.
+1. Assemble the circuit as shown in [circuit_diagram.png](hardware/diagrams/Circuit_Diagram.jpg).
+2. Refer to [mechanical_diagram.png](hardware/diagrams/Mechanical_Diagram.jpg) for car assembly.
 3. Connect the battery and power on the car.
-4. Verify connections using [bill_of_materials.md](hardware/bill_of_materials.md).
+4. Verify connections using [Bill of Materials](hardware/bill_of_materials.md).
 
 ### Firebase Setup
 1. Create a Firebase project at [console.firebase.google.com](https://console.firebase.google.com/).
 2. Add the Android app and download `google-services.json`.
-3. See [docs/firebase_setup.md](docs/firebase_setup.md) for details.
+3. See [Firebase Setup](docs/firebase_setup.markdown) for details.
 
 ## Usage
 1. Power on the car; the ESP32 creates a Wi-Fi AP (SSID: `Savana Node 01`, Password: `9038790118`).
@@ -95,20 +95,20 @@ See [Bill of Materials](hardware/bill_of_materials.md) for details and purchase 
 5. LEDs indicate movement: both on for backward, left LED for left turn, right LED for right turn.
 
 ## Documentation
-- [Introduction](docs/introduction.md): Project overview and objectives.
-- [Types of Obstacles](docs/types_of_obstacles.md): Obstacle categories addressed.
-- [Solutions](docs/solutions.md): Approaches to obstacle avoidance.
-- [Working Methodology](docs/working_methodology.md): Detailed system operation.
-- [Sensor Detection](docs/sensor_detection.md): HC-SR04 sensor functionality.
-- [Movement Controls](docs/movement_controls.md): Motor and LED control logic.
-- [Key Features](docs/key_features.md): Core functionalities.
-- [Applications](docs/applications.md): Potential use cases.
-- [Advantages and Disadvantages](docs/advantages_disadvantages.md): Benefits and limitations.
-- [Conclusion](docs/conclusion.md): Project outcomes and learnings.
-- [Challenges](docs/challenges.md): Development challenges and solutions.
-- [Future Scope](docs/future_scope.md): Potential enhancements.
-- [Firebase Setup](docs/firebase_setup.md): Firebase integration guide.
-- [References](docs/references.md): Resources used.
+- [Introduction](docs/introduction.markdown): Project overview and objectives.
+- [Types of Obstacles](docs/types_of_obstacles.markdown): Obstacle categories addressed.
+- [Solutions](docs/solutions.markdown): Approaches to obstacle avoidance.
+- [Working Methodology](docs/working_methodology.markdown): Detailed system operation.
+- [Sensor Detection](docs/sensor_detection.markdown): HC-SR04 sensor functionality.
+- [Movement Controls](docs/movement_controls.markdown): Motor and LED control logic.
+- [Key Features](docs/key_features.markdown): Core functionalities.
+- [Applications](docs/applications.markdown): Potential use cases.
+- [Advantages and Disadvantages](docs/advantages_disadvantages.markdown): Benefits and limitations.
+- [Conclusion](docs/conclusion.markdown): Project outcomes and learnings.
+- [Challenges](docs/challenges.markdown): Development challenges and solutions.
+- [Future Scope](docs/future_scope.markdown): Potential enhancements.
+- [Firebase Setup](docs/firebase_setup.markdown): Firebase integration guide.
+- [References](docs/references.markdown): Resources used.
 
 ## Project Presentation
 View the complete project presentation: [Project-ppt.pdf](presentation/Project-ppt.pdf)
@@ -135,10 +135,10 @@ Connect with us:
 - **LinkedIn**: [Your LinkedIn URL]
 - **Instagram**: [Your Instagram URL]
 - **Facebook**: [Your Facebook URL]
-- **Email**: your.email@example.com
+- **Email**: soumenmishra187@gmail.com
 
 For inquiries or feedback, reach out via email or social media. Follow our journey as we continue to innovate in IoT and robotics!
 
 ![License](https://img.shields.io/badge/license-MIT-green)
-![Issues](https://img.shields.io/github/issues/yourusername/Object-Detection-Car-ESP32-Android)
-![Stars](https://img.shields.io/github/stars/yourusername/Object-Detection-Car-ESP32-Android)
+![Issues](https://img.shields.io/github/issues/Soumen044/Object-Detection-Car-ESP32-Android)
+![Stars](https://img.shields.io/github/stars/Soumen044/Object-Detection-Car-ESP32-Android)
