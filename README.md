@@ -85,8 +85,8 @@ See [Bill of Materials](hardware/bill_of_materials.md) for more details and purc
 4. See [ESP32 - README](esp32-code/README.md) for detailed setup.
 
 ### Hardware Setup
-1. Assemble the circuit as shown in [circuit_diagram.png](hardware/diagrams/Circuit_Diagram.jpg).
-2. Refer to [mechanical_diagram.png](hardware/diagrams/Mechanical_Diagram.jpg) for car assembly.
+1. Assemble the circuit as shown in [Circuit Diagram](hardware/diagrams/Circuit_Diagram.jpg).
+2. Refer to [Mechanical Diagram](hardware/diagrams/Mechanical_Diagram.jpg) for car assembly.
 3. Connect the battery and power on the car.
 4. Verify connections using [Bill of Materials](hardware/bill_of_materials.md).
 
@@ -119,7 +119,7 @@ See [Bill of Materials](hardware/bill_of_materials.md) for more details and purc
 - [References](docs/references.markdown): Resources used.
 
 ## Project Document
-View the complete project Document: [Object Detection Car ESp32 Android.ppt.pdf](docs/Object-Detection-Car-ESP32-Android.pdf)
+View the complete project Document: [Object Detection Car ESp32 Android.pdf](docs/Object-Detection-Car-ESP32-Android.pdf)
 
 ## Project Presentation
 View the complete project presentation: [Object Detection Car ESp32 Android.ppt.pdf](presentation/Object-Detection-Car-ESP32-Android-ppt.pdf)
