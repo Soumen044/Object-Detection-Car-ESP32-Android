@@ -140,9 +140,9 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE).
 
 ## Contact
 Connect with us:
-- **LinkedIn**: [Your LinkedIn URL]
-- **Instagram**: [(https://www.facebook.com/Sowmen04)]
-- **Facebook**: [https://www.facebook.com/Sowmen04]
+- **LinkedIn**: [(https://www.linkedin.com/04-soumen-mishra)]
+- **Instagram**: [(https://www.instagram.com/sowmen_04)]
+- **Facebook**: [(https://www.facebook.com/Sowmen04)]
 - **Email**: soumenmishra187@gmail.com
 
 For inquiries or feedback, reach out via email or social media. Follow our journey as we continue to innovate in IoT and robotics!
