@@ -41,7 +41,7 @@ The Object Detection Car Controlled by Android Application offers significant be
   - Power-intensive components (ESP32, motors) reduce operational time.
 
 - **Sensor Limitations**:
-  - The HC-SR04 may struggle with reflective (e.g., glass) or soft (e.g., fabric) surfaces.
+  - The HC-SR04 may struggle with moving surfaces.
   - Narrow or low-height obstacles may be missed due to the sensor’s beam angle.
 
 - **Environmental Sensitivity**:
