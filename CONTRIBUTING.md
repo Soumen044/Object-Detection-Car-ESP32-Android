@@ -32,12 +32,12 @@ Thank you for your interest in contributing to the Object Detection Car Controll
 - **Testing**:
   - Test Arduino code on an ESP32 Dev Module.
   - Verify Android app functionality with Firebase and ESP32.
-  - Check hardware compatibility with [Circuit Diagram](hardware/circuit_diagram.png).
+  - Check hardware compatibility with [Circuit Diagram](hardware/diagrams/Circuit_Diagram.png).
 - **Documentation**:
   - Update relevant `.md` files for new features or fixes.
   - Maintain consistent Markdown formatting.
 - **Scope**:
-  - Align contributions with project goals (see [Introduction](docs/introduction.md)).
+  - Align contributions with project goals (see [Introduction](docs/introduction.markdown)).
   - Discuss major changes via Issues before implementing.
 
 ## Reporting Issues
@@ -48,7 +48,7 @@ Thank you for your interest in contributing to the Object Detection Car Controll
 - Use issue templates if available.
 
 ## Code of Conduct
-All contributors must adhere to our [Code of Conduct](CODE_OF_CONDUCT.md) to ensure a respectful and inclusive environment.
+All contributors must adhere to our [Code of Conduct](CODE_OF_CONDUCT.markdown) to ensure a respectful and inclusive environment.
 
 ## Contact
 For questions or clarification, reach out via:
