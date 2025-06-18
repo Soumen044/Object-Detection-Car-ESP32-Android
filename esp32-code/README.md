@@ -26,7 +26,7 @@ This folder contains the Arduino code (`CarControl.ino`) for the ESP32 microcont
 - **Hardcoded IPs**: Requests are processed at `http://192.168.4.1/`. Ensure the Android app targets this IP.
 
 ## Notes
-- **Circuit Verification**: Ensure connections match [Circuit Diagram](../../hardware/Circuit_Diagram.jpg).
+- **Circuit Verification**: Ensure connections match [Circuit Diagram](../../hardware/diagrams/Circuit_Diagram.jpg).
 - **Pin Configuration**:
   - HC-SR04: Trigger (pin 5), Echo (pin 18).
   - LEDs: Left (pin 14), Right (pin 27).
