@@ -120,7 +120,7 @@ View the complete project Document: [Object Detection Car ESp32 Android.pdf](doc
 View the complete project presentation: [Object Detection Car ESp32 Android.ppt.pdf](presentation/Object-Detection-Car-ESP32-Android-ppt.pdf)
 
 ## Contributing
-Contributions are welcome! Please review [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on reporting issues, submitting pull requests, and collaborating.
+Contributions are welcome! Please review [CONTRIBUTING](CONTRIBUTING.md) for guidelines on reporting issues, submitting pull requests, and collaborating.
 
 ## Code of Conduct
 We are committed to fostering an inclusive community. Please adhere to our [Code of Conduct](CODE_OF_CONDUCT.md).
