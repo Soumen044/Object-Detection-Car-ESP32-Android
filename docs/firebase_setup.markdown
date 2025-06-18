@@ -36,7 +36,7 @@ The Android app uses Firebase for single-user authentication, ensuring secure an
      classpath 'com.google.gms:google-services:4.3.15'
      ```
 
-   - Open `android-app/app/build.gradle` (app-level) and add:
+   - Open `android-app/build.gradle` (app-level) and add:
 
      ```gradle
      apply plugin: 'com.google.gms.google-services'
