@@ -37,6 +37,6 @@ The Object Detection Car Controlled by Android Application successfully achieved
 - Integrating Firebase without impacting app performance.
 
 ## Impact
-The project provides a cost-effective, scalable solution for robotic navigation, suitable for applications like automated delivery, warehouse transport, and security patrolling. It serves as an educational tool for learning IoT, robotics, and Android development, and lays the foundation for advanced enhancements (see [future_scope.md](future_scope.md)).
+The project provides a cost-effective, scalable solution for robotic navigation, suitable for applications like automated delivery, warehouse transport, and security patrolling. It serves as an educational tool for learning IoT, robotics, and Android development, and lays the foundation for advanced enhancements (see [Future Scope](future_scope.markdown)).
 
 The team’s efforts, guided by Shri Partha Sarathi Banerjee and Shri Achintya Gopal Mondal, and supported by Shri Aniruddha Bhaduri (Head of Department) and Dr. Manas Kumar Saha (Principal), highlight the potential of student-led innovation at Dasnagar Government Polytechnic.
