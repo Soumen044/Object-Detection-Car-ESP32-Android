@@ -67,6 +67,8 @@ See [Bill of Materials](hardware/bill_of_materials.md) for more details and purc
 5. Build and run on an Android device, or install `android-app/app-release.apk`.
 6. See [Android-App README(android-app/README.md) for detailed setup.
 
+- Download the [APK File:]() 
+
 ### ESP32 Code
 1. Open `esp32-code/CarControl.ino` in Arduino IDE.
 2. Install the ESP32 board manager via Boards Manager.
