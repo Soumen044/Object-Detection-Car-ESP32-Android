@@ -75,4 +75,4 @@ The Android app uses Firebase Authentication APIs to:
 - Maintain a single active session.
 - Prevent unauthorized control.
 
-For app setup, see [README.md](android-app/README.md).
+For app setup, see [README.md](../android-app/README.md).
