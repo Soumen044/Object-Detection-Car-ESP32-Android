@@ -76,8 +76,8 @@ See [Bill of Materials](hardware/bill_of_materials.md) for more details and purc
 ### Hardware Setup
 1. Assemble the circuit as shown in **Circuit Diagram**.
    ![Circuit Diagram](hardware/diagrams/Circuit_Diagram.jpg)
-3. Refer to **Mechanical Diagram**.
-   ![Mechanical Diagram](hardware/diagrams/Mechanical_Diagram.jpg) for car assembly
+3. Refer to **Mechanical Diagram** for car assembly.
+   ![Mechanical Diagram](hardware/diagrams/Mechanical_Diagram.jpg) 
 4. Connect the battery and power on the car.
 5. Verify connections using [Bill of Materials](hardware/bill_of_materials.md).
 
