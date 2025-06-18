@@ -63,11 +63,11 @@ float getDistance() {
 - **Reflective Surfaces**: Glass or mirrors may cause weak echoes.
 - **Soft Materials**: Fabrics absorb waves, reducing detection reliability.
 - **Narrow Objects**: Thin obstacles may be missed due to the sensor’s beam angle.
-- **Mitigation**: Calibration and positioning optimize performance (see [solutions.md](solutions.md)).
+- **Mitigation**: Calibration and positioning optimize performance (see [Solutions](solutions.markdown)).
 
 ## Integration
 - **Hardware**: Connected to ESP32 pins 5 (Trigger) and 18 (Echo).
-- **Software**: Integrated with motor control to trigger avoidance (see [movement_controls.md](movement_controls.md)).
+- **Software**: Integrated with motor control to trigger avoidance (see [Movement Controls](movement_controls.markdown)).
 - **Feedback**: Distance readings are printed to Serial Monitor for debugging.
 
-For complete code, see [esp32-code/CarControl.ino](../esp32-code/CarControl.ino).
+For complete code, see [CarControl.ino](../esp32-code/CarControl.ino).
