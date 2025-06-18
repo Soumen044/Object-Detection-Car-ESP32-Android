@@ -48,7 +48,7 @@ The development of the Object Detection Car Controlled by Android Application pr
    - **Impact**: Loose connections caused intermittent failures.
    - **Solution**:
      - Used a PCB for stable connections.
-     - Followed [Mechanical Diagram](../hardware/diagram/Mechanical Diagram.jpg) for chassis assembly.
+     - Followed [Mechanical Diagram](../hardware/diagram/Mechanical_Diagram.jpg) for chassis assembly.
      - Tested extensively to verify robustness.
 
 ## Lessons Learned
