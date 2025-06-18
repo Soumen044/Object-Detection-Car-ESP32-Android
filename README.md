@@ -74,8 +74,8 @@ See [Bill of Materials](hardware/bill_of_materials.md) for more details and purc
 4. See [ESP32 - README](esp32-code/README.md) for detailed setup.
 
 ### Hardware Setup
-1. Assemble the circuit as shown in ![Circuit Diagram](hardware/diagrams/Circuit_Diagram.jpg).
-2. Refer to ![Mechanical Diagram](hardware/diagrams/Mechanical_Diagram.jpg) for car assembly.
+1. Assemble the circuit as shown in Circuit Diagram ![Circuit Diagram](hardware/diagrams/Circuit_Diagram.jpg).
+2. Refer to Mechanical Diagram ![Mechanical Diagram](hardware/diagrams/Mechanical_Diagram.jpg) for car assembly.
 3. Connect the battery and power on the car.
 4. Verify connections using [Bill of Materials](hardware/bill_of_materials.md).
 
@@ -85,7 +85,7 @@ See [Bill of Materials](hardware/bill_of_materials.md) for more details and purc
 3. See [Firebase Setup](docs/firebase_setup.markdown) for details.
 
 ## Usage
-1. Power on the car; the ESP32 creates a Wi-Fi AP (SSID: `Savana Node 01`, Password: `9038790118`).
+1. Power on the car; the ESP32 creates a Wi-Fi AP (SSID: `Savana Node 01`, Password: `iloveindia`).
 2. Connect your Android device to the ESP32’s Wi-Fi network (IP: `192.168.4.1`).
 3. Open the Android app, log in via Firebase authentication, and use buttons to control the car (forward, backward, left, right, stop).
 4. The car automatically reverses and stops if an obstacle is detected within 60 cm.
