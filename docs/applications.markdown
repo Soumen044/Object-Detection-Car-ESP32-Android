@@ -34,4 +34,4 @@ The Object Detection Car Controlled by Android Application is a versatile platfo
 - Security and surveillance.
 - Consumer robotics (e.g., home assistants).
 
-For advantages and limitations, see [advantages_disadvantages.md](advantages_disadvantages.md).
+For advantages and limitations, see [Advantages Disadvantages](advantages_disadvantages.markdown).
