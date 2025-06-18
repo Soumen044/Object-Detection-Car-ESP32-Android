@@ -79,7 +79,8 @@ See [Bill of Materials](hardware/bill_of_materials.md) for more details and purc
 3. Refer to **Mechanical Diagram** for car assembly.
    ![Mechanical Diagram](hardware/diagrams/Mechanical_Diagram.jpg) 
 4. Connect the battery and power on the car.
-5. Verify connections using [Bill of Materials](hardware/bill_of_materials.md).
+5. To Understand more Easily take a look on [Working Methodology](docs/working_methodology.markdown)
+6. Verify Components using [Bill of Materials](hardware/bill_of_materials.md).
 
 ### Firebase Setup
 1. Create a Firebase project at [console.firebase.google.com](https://console.firebase.google.com/).
