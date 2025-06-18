@@ -18,6 +18,7 @@ Developed as a final-year project (Session: 2022–2025) by Soumen Mishra, Naban
 - [Contributing](#contributing)
 - [Code of Conduct](#code-of-conduct)
 - [License](#license)
+- [Security Policy](SECURITY.md)
 - [Acknowledgements](#acknowledgements)
 - [Contact](#contact)
 
