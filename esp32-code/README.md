@@ -22,11 +22,11 @@ This folder contains the Arduino code (`CarControl.ino`) for the ESP32 microcont
    - Received HTTP commands.
 
 ## Security Note
-- **Wi-Fi Credentials**: Update `ssid` and `password` in `CarControl.ino` before deploying in public settings. Default credentials (`Savana Node 01`, `9038790118`) are for testing only.
+- **Wi-Fi Credentials**: Update `ssid` and `password` in `CarControl.ino` before deploying in public settings. Default credentials (`Savana Node 01`, `iloveindia`) are for testing only.
 - **Hardcoded IPs**: Requests are processed at `http://192.168.4.1/`. Ensure the Android app targets this IP.
 
 ## Notes
-- **Circuit Verification**: Ensure connections match [circuit_diagram.png](../../hardware/circuit_diagram.png).
+- **Circuit Verification**: Ensure connections match [Circuit Diagram](../../hardware/Circuit_Diagram.jpg).
 - **Pin Configuration**:
   - HC-SR04: Trigger (pin 5), Echo (pin 18).
   - LEDs: Left (pin 14), Right (pin 27).
@@ -34,4 +34,4 @@ This folder contains the Arduino code (`CarControl.ino`) for the ESP32 microcont
 - **Testing**: Connect the Android app to the ESP32’s Wi-Fi AP and test all movements.
 - **Debugging**: Use Serial Monitor to troubleshoot sensor readings or Wi-Fi issues.
 
-For hardware details, see [bill_of_materials.md](../../hardware/bill_of_materials.md).
+For hardware details, see [Bill of Materials](../../hardware/bill_of_materials.md).
