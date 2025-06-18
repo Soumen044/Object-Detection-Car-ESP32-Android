@@ -75,7 +75,7 @@ The Object Detection Car Controlled by Android Application operates through a se
 ![Flowchart Diagram](../hardware/diagrams/Flowchart_Diagram.jpg).
 ![Obstacle Avoidance Diagram](../hardware/diagrams/Obstacle_Avoidance_Diagram.jpg).
 ![State Machine Diagram](../hardware/diagrams/State_Machine_Diagram.jpg).
-![Structure System Diagram](hardware/diagrams/Structure_System_Diagram.jpg).
+![Structure System Diagram](../hardware/diagrams/Structure_System_Diagram.jpg).
 ![Mechanical Diagram](../hardware/diagrams/Mechanical_Diagram.jpg).
 
 **Workflow Summary**:
