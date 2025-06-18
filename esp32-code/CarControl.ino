@@ -19,7 +19,7 @@
 
 // WiFi Configuration (change these for your network)
 const char* ssid = "Savana Node 01";    // Wi-Fi SSID for Access Point
-const char* password = "9038790118";    // Wi-Fi Password (update for security)
+const char* password = "iloveindia";    // Wi-Fi Password (update for security)
 WiFiServer server(80);                  // HTTP server on port 80
 
 void setup() {
