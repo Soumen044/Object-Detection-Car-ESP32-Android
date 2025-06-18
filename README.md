@@ -118,8 +118,11 @@ See [Bill of Materials](hardware/bill_of_materials.md) for more details and purc
 - [Firebase Setup](docs/firebase_setup.markdown): Firebase integration guide.
 - [References](docs/references.markdown): Resources used.
 
+## Project Document
+View the complete project Document: [Object Detection Car ESp32 Android.ppt.pdf](docs/Object-Detection-Car-ESP32-Android.pdf)
+
 ## Project Presentation
-View the complete project presentation: [Project-ppt.pdf](presentation/Project-ppt.pdf)
+View the complete project presentation: [Object Detection Car ESp32 Android.ppt.pdf](presentation/Object-Detection-Car-ESP32-Android-ppt.pdf)
 
 ## Contributing
 Contributions are welcome! Please review [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on reporting issues, submitting pull requests, and collaborating.
@@ -140,9 +143,10 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE).
 
 ## Contact
 Connect with us:
-- **LinkedIn**: [(https://www.linkedin.com/04-soumen-mishra)]
+- **LinkedIn**: [(https://www.linkedin.com/in/04-soumen-mishra)]
 - **Instagram**: [(https://www.instagram.com/sowmen_04)]
 - **Facebook**: [(https://www.facebook.com/Sowmen04)]
+- **Twitter**: [(https://www.twitter.com/Sowmen04)]
 - **Email**: soumenmishra187@gmail.com
 
 For inquiries or feedback, reach out via email or social media. Follow our journey as we continue to innovate in IoT and robotics!
