@@ -24,8 +24,8 @@ The Object Detection Car Controlled by Android Application offers significant be
   - Ideal for environments requiring exclusive operation.
 
 - **Scalability**:
-  - The design supports enhancements like additional sensors or AI (see [future_scope.md](future_scope.md)).
-  - Applicable to various domains (see [applications.md](applications.md)).
+  - The design supports enhancements like additional sensors or AI (see [future_scope.md](future_scope.markdown)).
+  - Applicable to various domains (see [applications.md](applications.markdown)).
 
 ## Disadvantages
 - **Single-User Limitation**:
@@ -48,4 +48,4 @@ The Object Detection Car Controlled by Android Application offers significant be
   - Ultrasonic sensor performance varies with temperature and humidity.
   - Calibration is needed for extreme conditions.
 
-These advantages make the car a practical solution for educational and small-scale robotic applications, while the disadvantages highlight areas for improvement (see [future_scope.md](future_scope.md)).
+These advantages make the car a practical solution for educational and small-scale robotic applications, while the disadvantages highlight areas for improvement (see [future_scope.md](future_scope.markdown)).
