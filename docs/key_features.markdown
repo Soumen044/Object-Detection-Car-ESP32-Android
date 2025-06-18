@@ -21,7 +21,9 @@ The Object Detection Car Controlled by Android Application offers a robust set o
 - **User-Friendly Interface**:
   - Android app features intuitive buttons for movement (forward, backward, left, right, stop).
   - Firebase authentication ensures secure, single-user access.
-  - Screenshots: [media/screenshots/](../../media/screenshots/).
+  - [Aplication Image](../android-app/application-images).
+  - [Car Images](../media/car_photos/).
+  - [Demo Video](../media/ObjectDetectionCar.demo.mp4).
 
 - **Cost-Effective Design**:
   - Built with affordable components (total cost ~INR 1,960).
@@ -43,4 +45,4 @@ The Object Detection Car Controlled by Android Application offers a robust set o
   - L293D motor driver for precise motor control.
   - 7.4V Li-ion battery with LM2596 regulator for stable power.
 
-These features make the car suitable for applications like automated delivery, warehouse navigation, and security patrolling, with potential for further enhancements (see [future_scope.md](future_scope.md)).
+These features make the car suitable for applications like automated delivery, warehouse navigation, and security patrolling, with potential for further enhancements (see [Future Scope](future_scope.markdown)).
