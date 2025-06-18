@@ -16,7 +16,7 @@ The Object Detection Car Controlled by Android Application offers significant be
   - Sensor readings are updated every second for timely obstacle detection.
 
 - **Cost-Effective Solution**:
-  - Built with affordable components (total cost ~INR 1,960).
+  - Built with affordable components (total cost ~INR 2,700).
   - Suitable for educational projects, hobbyists, and small-scale commercial applications.
 
 - **Secure Operation**:
