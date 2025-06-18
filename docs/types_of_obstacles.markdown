@@ -32,4 +32,4 @@ The Object Detection Car is designed to detect and avoid various types of obstac
 - Ensuring accurate detection in noisy environments (e.g., multiple sound sources).
 - Maintaining sensor reliability across varying temperatures and humidity.
 
-The car’s obstacle detection system, powered by the HC-SR04 sensor, addresses these categories by measuring distances every second and triggering avoidance actions (reversing for 500 ms and stopping) when obstacles are within 60 cm. For detailed sensor operation, see [sensor_detection.md](sensor_detection.md).
+The car’s obstacle detection system, powered by the HC-SR04 sensor, addresses these categories by measuring distances every second and triggering avoidance actions (reversing for 500 ms and stopping) when obstacles are within 60 cm. For detailed sensor operation, see [Sensor Detection](sensor_detection.markdown).
