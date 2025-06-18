@@ -18,7 +18,7 @@ Developed as a final-year project (Session: 2022–2025) by Soumen Mishra, Naban
 - [Contributing](#contributing)
 - [Code of Conduct](#code-of-conduct)
 - [License](#license)
-- [Security Policy](SECURITY.md)
+- [Security Policy](#security-policy)
 - [Acknowledgements](#acknowledgements)
 - [Contact](#contact)
 
@@ -127,6 +127,9 @@ We are committed to fostering an inclusive community. Please adhere to our [Code
 
 ## License
 This project is licensed under the MIT License - see [LICENSE](LICENSE).
+
+## Security Policy
+**Security Policy** - [Security Policy](SECURITY.md)
 
 ## Acknowledgements
 - **Team**: Soumen Mishra, Nabanita Maity, Triyasa Dey, Pousali Pal, Anirudha Roy.
