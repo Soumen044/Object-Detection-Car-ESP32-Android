@@ -1,6 +1,6 @@
 # Object Detection Car Controlled by Android Application
 
-![Project Logo](media/project_logo.png)
+![Project Logo](../media/Application_logo.png)
 
 A Wi-Fi-enabled, remote-controlled car with obstacle detection, powered by an ESP32 microcontroller, HC-SR04 ultrasonic sensor, and an Android application. The car detects obstacles within 60 cm, automatically reversing and stopping to avoid collisions, and is controlled via a smartphone app over Wi-Fi using HTTP GET requests. Firebase integration ensures secure single-user control, enhancing the user experience.
 
