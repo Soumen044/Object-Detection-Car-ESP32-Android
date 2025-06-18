@@ -4,7 +4,7 @@ Thank you for your interest in contributing to the Object Detection Car Controll
 
 ## How to Contribute
 1. **Fork the Repository**:
-   - Visit [github.com/yourusername/Object-Detection-Car-ESP32-Android](https://github.com/yourusername/Object-Detection-Car-ESP32-Android).
+   - Visit [github.com/Soumen044/Object-Detection-Car-ESP32-Android](https://github.com/Soumen044/Object-Detection-Car-ESP32-Android).
    - Click “Fork” to create a copy under your GitHub account.
 
 2. **Create a Branch**:
@@ -41,7 +41,7 @@ Thank you for your interest in contributing to the Object Detection Car Controll
   - Discuss major changes via Issues before implementing.
 
 ## Reporting Issues
-- Use the [Issues](https://github.com/yourusername/Object-Detection-Car-ESP32-Android/issues) tab to report bugs or suggest features.
+- Use the [Issues](https://github.com/Soumen044/Object-Detection-Car-ESP32-Android/issues) tab to report bugs or suggest features.
 - Provide detailed information:
   - **Bug**: Steps to reproduce, expected vs. actual behavior, logs (e.g., Serial Monitor).
   - **Feature**: Description, use case, potential implementation.
