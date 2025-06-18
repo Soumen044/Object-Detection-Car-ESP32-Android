@@ -66,16 +66,27 @@ The Object Detection Car Controlled by Android Application operates through a se
    - LM2596 voltage regulator ensures stable 5V/3.3V supply for ESP32 and sensors.
 
 **System Architecture**:
+**A. Base Structure**
 ![Base Structure](../hardware/diagrams/Base_Structure.png)
+**B. Block Diagram**
 ![Block Diagram](../hardware/diagrams/Block_Diagram.jpg)
+**C. Circuit Diagram**
 ![Circuit Diagram](../hardware/diagrams/Circuit_Diagram.jpg)
+**D. Control System Model**
 ![Control System Model](../hardware/diagrams/Controll_System_Model.png)
+**E. Data Flow Diagram**
 ![Data Flow Diagram](../hardware/diagrams/Data_Flow_Diagram.jpg)
+**F. Entity Relationship Diagram of the Firebase Realtime Database**
 ![Entity Relationship Diagram of the Firebase Realtime Database](../hardware/diagrams/Entity_Relationship_Diagram_of_the_Firebase_Realtime_Database.png)
+**G. Flowchart Diagram**
 ![Flowchart Diagram](../hardware/diagrams/Flowchart_Diagram.jpg)
+**H. Obstacle Avoidance Diagram**
 ![Obstacle Avoidance Diagram](../hardware/diagrams/Obstacle_Avoidance_Diagram.jpg)
+**I. State Machine Diagram**
 ![State Machine Diagram](../hardware/diagrams/State_Machine_Diagram.jpg)
+**J. Structure System Diagram**
 ![Structure System Diagram](../hardware/diagrams/Structure_System_Diagram.jpg)
+**K. Mechanical Diagram**
 ![Mechanical Diagram](../hardware/diagrams/Mechanical_Diagram.jpg)
 
 **Workflow Summary**:
