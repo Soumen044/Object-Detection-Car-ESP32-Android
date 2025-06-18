@@ -24,7 +24,7 @@ This folder contains the Android Studio project for the control app, which sends
 - **HTTP Requests**: The app sends requests to `http://192.168.4.1/` (ESP32’s default IP).
 - **Firebase Login**: Use a registered email/password for single-user access.
 - **Testing**: Ensure the car is powered on and verify controls (forward, backward, left, right, stop).
-- **Screenshots**: See [media/screenshots/](../../media/screenshots/) for app interface examples.
+- **Screenshots**: See [Application Images](../../android-app/application-images/) for app interface examples.
 - **Troubleshooting**:
   - Check Wi-Fi connection to ESP32.
   - Verify Firebase configuration.
