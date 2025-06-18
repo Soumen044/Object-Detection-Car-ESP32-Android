@@ -22,7 +22,7 @@ Developed as a final-year project (Session: 2022–2025) by Soumen Mishra, Naban
 - [Contact](#contact)
 
 ## Demo
-[[Demo Video]((../media/ObjectDetectionCar.demo.mp4))]
+[[Demo Video](media/ObjectDetectionCar.demo.mp4)]
 [Your YouTube Link](https://youtube.com/shorts/29JZEBwUVIw?si=bS2NoO9rE357zt9-).
 ![Demo GIF](../media/ObjectDetectionCar.demo.gif).
 
