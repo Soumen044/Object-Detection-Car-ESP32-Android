@@ -1,6 +1,6 @@
 # Object Detection Car Controlled by Android Application
 
-![Project Logo](media/Application_logo.png)
+[Project Logo](media/Application_logo.png)
 
 A Wi-Fi-enabled, remote-controlled car with obstacle detection, powered by an ESP32 microcontroller, HC-SR04 ultrasonic sensor, and an Android application. The car detects obstacles within 60 cm, automatically reversing and stopping to avoid collisions, and is controlled via a smartphone app over Wi-Fi using HTTP GET requests. Firebase integration ensures secure single-user control, enhancing the user experience.
 
@@ -50,17 +50,6 @@ Watch the car navigate and avoid obstacles in our YouTube demo video, showcasing
 | 3.7V Li-ion Battery ~2000mah         | 4        | Power supply for the car                 | 350                |
 | LM2596 Buck Converter                | 1        | Stable power supply                      | 100                |
 | Breadboard 400-tie                   | 1        | Circuit assembly                         | 200                |
-| Li-ion 18650 Battary Holder          | 2        | Hold the battaries                       | 200                |
-| Jumper Wires                         | ~30      | Circuit connections                      | 100                |
-| Chassis                              | 1        | Car base                                 | 350                |
-| BO DC Motors                         | 4        | Drives the car’s wheels                  | 200                |
-| BO wheels                            | 4        | Turns the car in directions              | 100                |
-| Resistor 1k                          | 3        | Circuit assembly                         | 10                 |
-| 5v Switch                            | 1        | Power turn On/Off                        | 50                 |
-| LEDs                                 | 6        | Movement direction indicators            | 25                 |
-| TP4056 li-ion Charging Module        | 1        | Recharge the battarys                    | 50                 |
-| Glue Gun                             | 1        | Attach the Componentsto the Chassis      | NIL                |
-| Solder Iron                          | 1        | Wiring Connection                        | NIL                |
 
 See [Bill of Materials](hardware/bill_of_materials.md) for more details and purchase links.
 
@@ -143,11 +132,13 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE).
 
 ## Contact
 Connect with us:
+
+- **Email**: soumenmishra187@gmail.com
+  
 - **LinkedIn**: [(https://www.linkedin.com/in/04-soumen-mishra)]
 - **Instagram**: [(https://www.instagram.com/sowmen_04)]
 - **Facebook**: [(https://www.facebook.com/Sowmen04)]
 - **Twitter**: [(https://www.twitter.com/Sowmen04)]
-- **Email**: soumenmishra187@gmail.com
 
 For inquiries or feedback, reach out via email or social media. Follow our journey as we continue to innovate in IoT and robotics!
 
