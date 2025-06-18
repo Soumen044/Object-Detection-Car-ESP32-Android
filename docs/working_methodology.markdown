@@ -5,7 +5,7 @@ The Object Detection Car Controlled by Android Application operates through a se
 1. **Wi-Fi Setup**:
    - The ESP32 microcontroller establishes a Wi-Fi Access Point (AP).
    - **SSID**: `Savana Node 01`
-   - **Password**: `9038790118`
+   - **Password**: `iloveindia`
    - **IP Address**: `192.168.4.1` (default for clients).
    - The ESP32 runs a WiFiServer on port 80 to handle HTTP requests.
 
