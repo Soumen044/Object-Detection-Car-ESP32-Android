@@ -1,21 +1,59 @@
 # Contributing
 
-Thank you for your interest in contributing to the Object Detection Car project! We welcome bug reports, feature suggestions, and code improvements.
+Thank you for your interest in contributing to the Object Detection Car Controlled by Android Application! We welcome contributions from the community to enhance this open-source project, including bug reports, feature suggestions, code improvements, and documentation updates.
 
 ## How to Contribute
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/your-feature`).
-3. Make your changes and commit (`git commit -m "Add your feature"`).
-4. Push to your fork (`git push origin feature/your-feature`).
-5. Open a Pull Request with a clear description of your changes.
+1. **Fork the Repository**:
+   - Visit [github.com/yourusername/Object-Detection-Car-ESP32-Android](https://github.com/yourusername/Object-Detection-Car-ESP32-Android).
+   - Click “Fork” to create a copy under your GitHub account.
 
-## Guidelines
-- Follow the existing code style (e.g., consistent naming, comments).
-- Test your changes thoroughly (e.g., Arduino code, Android app, hardware).
-- Update documentation if necessary.
+2. **Create a Branch**:
+   - Clone your fork locally: `git clone https://github.com/yourusername/Object-Detection-Car-ESP32-Android.git`.
+   - Create a new branch: `git checkout -b feature/your-feature`.
 
-## Issues
-- Report bugs or suggest features via the [Issues](https://github.com/Soumen044/Object-Detection-Car-ESP32-Android/issues) tab.
-- Provide detailed steps to reproduce bugs.
+3. **Make Changes**:
+   - Implement your changes (e.g., code, documentation).
+   - Follow the existing code style (camelCase for Arduino, consistent naming in Android).
+   - Test thoroughly (Arduino code, Android app, hardware setup).
 
-Contact the team via [LinkedIn](https://www.linkedin.com/in/04-soumen-mishra) for questions.
+4. **Commit Changes**:
+   - Commit with a clear message: `git commit -m "Add your feature"`.
+   - Push to your fork: `git push origin feature/your-feature`.
+
+5. **Submit a Pull Request**:
+   - Go to your fork on GitHub and click “New pull request.”
+   - Describe your changes, referencing relevant issues.
+   - Submit for review.
+
+## Contribution Guidelines
+- **Code Quality**:
+  - Ensure code is well-commented and readable.
+  - Avoid hardcoding sensitive data (e.g., Wi-Fi credentials).
+- **Testing**:
+  - Test Arduino code on an ESP32 Dev Module.
+  - Verify Android app functionality with Firebase and ESP32.
+  - Check hardware compatibility with [circuit_diagram.png](hardware/circuit_diagram.png).
+- **Documentation**:
+  - Update relevant `.md` files for new features or fixes.
+  - Maintain consistent Markdown formatting.
+- **Scope**:
+  - Align contributions with project goals (see [introduction.md](docs/introduction.md)).
+  - Discuss major changes via Issues before implementing.
+
+## Reporting Issues
+- Use the [Issues](https://github.com/yourusername/Object-Detection-Car-ESP32-Android/issues) tab to report bugs or suggest features.
+- Provide detailed information:
+  - **Bug**: Steps to reproduce, expected vs. actual behavior, logs (e.g., Serial Monitor).
+  - **Feature**: Description, use case, potential implementation.
+- Use issue templates if available.
+
+## Code of Conduct
+All contributors must adhere to our [Code of Conduct](CODE_OF_CONDUCT.md) to ensure a respectful and inclusive environment.
+
+## Contact
+For questions or clarification, reach out via:
+- **LinkedIn**: [Your LinkedIn URL]
+- **Email**: your.email@example.com
+- **Issues**: Post in the repository’s Issues tab.
+
+We appreciate your contributions and look forward to collaborating!
