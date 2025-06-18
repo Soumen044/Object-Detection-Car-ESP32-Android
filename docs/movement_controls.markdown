@@ -89,8 +89,8 @@ void resetLEDs() {
 - **Obstacle Override**: If an obstacle is detected (< 60 cm), `movebackward()` and `movestop()` are triggered, ignoring manual commands.
 
 ## Integration
-- **Wi-Fi**: Commands are received via the ESP32’s Wi-Fi AP (see [working_methodology.md](working_methodology.md)).
-- **Sensor**: Obstacle detection influences movement (see [sensor_detection.md](sensor_detection.md)).
+- **Wi-Fi**: Commands are received via the ESP32’s Wi-Fi AP (see [Working Methodology](working_methodology.markdown)).
+- **Sensor**: Obstacle detection influences movement (see [Sensor Detection](sensor_detection.markdown)).
 - **Feedback**: LEDs and HTTP responses (`The Car is moving: [command]`) inform the user.
 
-For complete code, see [esp32-code/CarControl.ino](../esp32-code/CarControl.ino).
+For complete code, see [CarControl.ino](../esp32-code/CarControl.ino).
