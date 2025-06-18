@@ -14,7 +14,7 @@ To ensure effective obstacle avoidance, the Object Detection Car implements a ro
   - This overrides manual commands from the Android app, prioritizing safety.
 
 - **Wi-Fi-Based Remote Control**:
-  - The ESP32 creates a Wi-Fi Access Point (SSID: `Savana Node 01`, Password: `9038790118`).
+  - The ESP32 creates a Wi-Fi Access Point (SSID: `Savana Node 01`, Password: `iloveindia`).
   - The Android app sends HTTP GET requests (e.g., `http://192.168.4.1/forward`) to control movement.
   - Allows users to navigate around obstacles manually when needed.
 
@@ -37,7 +37,7 @@ To ensure effective obstacle avoidance, the Object Detection Car implements a ro
 
 **Implementation Details**:
 - **Hardware**: HC-SR04 connected to ESP32 (Trigger: pin 5, Echo: pin 18).
-- **Software**: Arduino code processes sensor data and HTTP requests (see [esp32-code/CarControl.ino](../esp32-code/CarControl.ino)).
+- **Software**: Arduino code processes sensor data and HTTP requests (see [CarControl.ino](../esp32-code/CarControl.ino)).
 - **Testing**: Validated in environments with static, dynamic, and low-height obstacles.
 
-These solutions enable the car to navigate complex environments safely, making it suitable for applications like automated delivery or surveillance. For sensor specifics, see [sensor_detection.md](sensor_detection.md).
+These solutions enable the car to navigate complex environments safely, making it suitable for applications like automated delivery or surveillance. For sensor specifics, see [Sensor Detection](sensor_detection.markdown).
